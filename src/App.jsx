@@ -9,38 +9,38 @@ function App() {
   const steps = [
     {
       icon: <MessageCircleWarning size={64} />,
-      title: "I messed up really bad.",
-      text: "I want to sincerely apologize for my slip of the mouth. What I said was completely out of line, thoughtless, and deeply hurtful.",
+      title: "I am so deeply sorry.",
+      text: "I messed up really bad. My heart sinks every time I think about the thoughtless things I said. I am incredibly sorry for hurting you.",
     },
     {
       icon: <Droplets size={64} />,
-      title: "I hate that I made you cry.",
-      text: "Knowing that my careless words caused you pain and brought you to tears is tearing me apart. You did not deserve to be hurt like that.",
+      title: "I cannot stand seeing you cry.",
+      text: "Knowing that my foolish words caused you pain and brought you to tears is the worst feeling in the world. I would do absolutely anything to take those tears away.",
     },
     {
       icon: <HeartCrack size={64} />,
-      title: "I broke your trust.",
-      text: "Trust is everything, and I shattered it in a moment of sheer stupidity. I can't express how horrible I feel for letting you down so badly.",
+      title: "You are everything I want.",
+      text: "I shattered your trust, and I hate myself for it. Please know, you are the most important person in my life. I want you, and only you, and the thought of losing you over my own stupidity is terrifying.",
     },
     {
       icon: <UserX size={64} />,
-      title: "I have no excuses.",
-      text: "I take full responsibility. I am not trying to defend what I did. It was just plain wrong, and I regret it more than words can say.",
+      title: "I will spend every day making it up to you.",
+      text: "I have no excuses. It was wrong. But I just want you to know how desperately I want to fix this. I am pleading for the chance to prove my love and loyalty to you.",
     },
     {
       icon: <Clock size={64} />,
-      title: "I'll give you time.",
-      text: "I know sorry doesn't magically fix things, and if you need space, I understand. But please know, I am committed to healing the damage I caused.",
+      title: "I'll wait as long as it takes.",
+      text: "If you need time or space, I will give it to you. I will wait forever if I have to. Because a life without you is just not a life I want.",
     },
     {
       icon: <Frown size={64} />,
-      title: "I am an idiot.",
-      text: "I really am an idiot. But I'm an idiot who deeply values you, respects you, and wants to make things right. I promise I will be better.",
+      title: "I love you. I need you.",
+      text: "I am an absolute idiot. But I'm an idiot who is hopelessly, completely in love with you. I need you in my life so much. I am so sorry.",
     },
     {
       icon: <HeartHandshake size={64} />,
-      title: "Can you forgive me?",
-      text: "Can you find it in your beautiful heart to forgive this absolute idiot just once?",
+      title: "Can you ever forgive me?",
+      text: "Can you find it in your beautiful heart to forgive me just once? I promise you I will never make you feel like this again.",
       isFinal: true
     }
   ];
